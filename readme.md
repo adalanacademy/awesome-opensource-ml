@@ -15,3 +15,8 @@
 | ---- | ----------- | ---- |
 |TransformerLens | Library for probing transformer model internals with the intention of understanding black-box open source models | https://github.com/neelnanda-io/TransformerLens |
 |Distill.pub zoom-in | Distill.pub was an AI research journal that investigated neural network internals to extract how algorithms were encoded inside. This article introduces important concepts in reverse engineering how neural networks work | https://distill.pub/2020/circuits/zoom-in/ |
+
+## Prompt Engineering
+| Name | Description | Link |
+| ---- | ----------- | ---- |
+| [learnprompting.org](https://learnprompting.org/) | Very comprehensive free corpus of information on ways to reliably prompt LLMs to get them to do what you want | |
