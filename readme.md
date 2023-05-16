@@ -1,4 +1,7 @@
 ![working the printing press](https://github.com/adalanacademy/awesome-opensource-ml/blob/master/static/printingpresser1.png)
+
+Much like the printing press gave access to more information, so we see the potential of AI to empower when control is in our own hands.
+
 ## Agents
 | Name | Description | Link |
 | ---- | ----------- | ---- |
