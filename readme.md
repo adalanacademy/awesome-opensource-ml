@@ -20,3 +20,10 @@
 | Name | Description | Link |
 | ---- | ----------- | ---- |
 | [learnprompting.org](https://learnprompting.org/) | Very comprehensive free corpus of information on ways to reliably prompt LLMs to get them to do what you want | |
+
+## AI Safety/Ethics
+This is a loaded subject since there is alot of doomerism and hidden agendas that passes for AI safety. AI Ethics is often considered from just one moral viewpoint - a sort of liberal bourgeois academic bubble. That said, there are interesting discussions such as immediate security concerns in deploying AI into systems, and the general concern of maintaining a sense of morality in decision making machines.
+
+| Name | Description | Link |
+| ---- | ----------- | ---- |
+| AI Safety (Windows on Theory) | A useful introduction to the different branches of concerns in safety and initial conclusions | https://windowsontheory.org/2023/04/12/thoughts-on-ai-safety/ |
