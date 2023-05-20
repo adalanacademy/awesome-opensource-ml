@@ -13,6 +13,7 @@ Much like the printing press gave access to more information, so we see the pote
 | Andrej Karpathy's NLP series | A 7-part series on training neural networks is the de-facto zero-to-hero resource for proficiency in language models/transformers/RNN | https://inv.bp.projectsegfau.lt/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ |
 | Yannic Kilcher | A phd grad, creator and unleasher of Gpt4Chan as well as OpenAssistant. Lots of content on new papers and developments. Good philosophical foundations as well. | https://yewtu.be/channel/UCZHmQk67mSJgfCCTn7xBfew |
 | FutureMojo | Deep technical introduction to current NLP concepts like attention, transformer architecture, embeddings | https://www.youtube.com/@futuremojo/videos |
+| [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=tf) | Practical introduction to the python libraries required for installing, running and training transformer models | |
 
 ## Reverse Engineering Efforts
 | Name | Description | Link |
