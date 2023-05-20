@@ -31,4 +31,4 @@ This is a loaded subject since there is alot of doomerism and hidden agendas tha
 
 | Name | Description |
 | ---- | ----------- |
-| AI Safety (Windows on Theory) | A useful introduction to the different branches of concerns in safety and initial conclusions | https://windowsontheory.org/2023/04/12/thoughts-on-ai-safety/ |
+| [AI Safety (Windows on Theory)](https://windowsontheory.org/2023/04/12/thoughts-on-ai-safety/) | A useful introduction to the different branches of concerns in safety and initial conclusions |
