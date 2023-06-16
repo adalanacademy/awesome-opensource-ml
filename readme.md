@@ -26,6 +26,11 @@ Much like the printing press gave access to more information, so we see the pote
 | ---- | ----------- |
 | [learnprompting.org](https://learnprompting.org/) | Very comprehensive free corpus of information on ways to reliably prompt LLMs to get them to do what you want |
 
+## Reinforcement Learning
+| Name | Description |
+| ---- | ----------- |
+| [SpinningUp](https://github.com/openai/spinningup) | A study guide by OpenAI for becoming an RL expert |
+
 ## AI Safety/Ethics
 This is a loaded subject since there is alot of doomerism and hidden agendas that pass for AI safety. That said, the discussion around security is an immediate concern. Pondering on super-intelligence (I think) is mostly un-interesting and obfuscates the reality of what is actually being built now.
 
